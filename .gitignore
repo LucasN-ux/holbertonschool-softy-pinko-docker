@@ -1,0 +1,7 @@
+# Environment files
+.env
+.env.*
+*.env
+
+# Front-end cloned repos
+softy-pinko-front-end/
